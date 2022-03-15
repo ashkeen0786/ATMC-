@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "db0acb71-c3f7-454d-ba3c-042992895283": {
+      "ProjectGuid": "db0acb71-c3f7-454d-ba3c-042992895283",
+      "DisplayName": "BankAccount",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
